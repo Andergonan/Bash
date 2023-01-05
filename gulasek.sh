@@ -1,3 +1,3 @@
-loadData="gulasek"
+result=$(expr 2 \* 3)
 
-echo "$loadData"
+echo "gulasek s $result knedliky"
