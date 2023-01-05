@@ -1,0 +1,3 @@
+loadData="gulasek"
+
+echo "$loadData"
