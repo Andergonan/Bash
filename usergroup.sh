@@ -13,7 +13,7 @@ sudo useradd -m $1
 # přidání uživatele do skupiny
 sudo usermod -a -G $2 $1
 
-echo "Uživatel $1 vytvořen a přidán do skupiny $2"
+echo "Uzivatel $1 vytvoren a pridan do skupiny $2"
 
 # ------------------------------------------
 # -_-_-_-_--_-_-_-_-volání-_-_-_-_--_-_-_-_-
